@@ -1,0 +1,171 @@
+#title {
+    background-color: #ff4c68;
+    color: aliceblue;
+}
+
+.container-fluid {
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+
+
+
+}
+
+h2 {
+    font-family: 'montserrat';
+}
+
+h1 {
+    font-family: 'montserrat';
+    font-size: 3.5rem;
+    line-height: 1.5;
+    font-weight: 900;
+}
+
+body {
+    font-family: 'Mali', cursive;
+}
+
+.navbar-brand {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2.5rem;
+}
+
+.navbar {
+    padding: 0 0 4.5rem;
+}
+
+.nav-item {
+    padding: 50px;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+
+.btn {
+    margin: 5% 3% 5% 0;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+h3 {
+    font-family: 'montserrat';
+}
+
+.feature {
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 5%;
+    padding-bottom: 10%;
+    font-family: 'ubuntu';
+    text-align: center;
+
+
+}
+
+p {
+    font-family: 'Mali', cursive;
+    font-weight: 700;
+
+}
+
+.heart {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    width: 100px;
+    margin-bottom: 1rem;
+
+}
+
+.check-mark {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    width: 100px;
+    margin-bottom: 1rem;
+}
+
+.target {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    width: 100px;
+
+    margin-bottom: 1rem;
+
+}
+
+.icon {
+    color: #ff4c68;
+}
+
+#testimonials {
+    text-align: center;
+    color: aliceblue;
+    background-color: #ADA2FF;
+    padding: 5% 5% 5% 3%;
+}
+
+.testimonial-image {
+    border-radius: 1000%;
+    width: 400px;
+    color: #ef8172;
+    padding: 50px;
+}
+
+.pricing-item {
+    padding: 2%;
+    text-align: center;
+}
+
+#pricing {
+    margin-bottom: 100px;
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center;
+
+}
+
+@media(max-width:993px) {
+    #title {
+        text-align: center;
+    }
+
+    .casanya {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 100%;
+    }
+}
+.cta{
+   
+    background-color: #ff4c68;
+    height: 300px;
+    color: aliceblue;
+    text-align: center;
+    font-family: 'montserrat';
+    padding: 5% 5% 5% 3%;
+     margin-top: 50px;
+     margin-bottom: 50px;
+  
+
+
+}
+.footer{
+    text-align: center;
+    padding: 3%;
+
+
+}
+.social{
+    margin: 20px;
+}
