@@ -1,1 +1,1 @@
-# tinder--for-cats
+# tinder-for-cats
